@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>نموذج حجز المكاتب</title>
+  <style>
+    body { font-family: sans-serif; background-color: #f5f5f5; margin: 0; padding: 20px; }
+    .filters { display: flex; gap: 10px; margin-bottom: 20px; }
+    select { padding: 8px; font-size: 16px; }
+    .grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; max-width: 600px; }
+    .office { padding: 15px; text-align: center; border-radius: 5px; cursor: pointer; font-weight: bold; color: white; }
+    .available { background-color: #4CAF50; }
+    .reserved { background-color: #f44336; }
+    .maintenance { background-color: #FFEB3B; color: #000; }
+    .pending, .partial { background-color: #FF9800; }
+    .legend { margin-top: 20px; }
+    .legend span { display: inline-block; width: 20px; height: 20px; margin-left: 5px; vertical-align: middle; }
+    .details { margin-top: 20px; border: 1px solid #ccc; padding: 10px; max-width: 300px; background: #fff; }
+    button { padding: 10px 15px; margin-top: 10px; background: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div class="filters">
+    <select id="building">
+      <option>المبنى</option>
+      <option>322</option>
+      <option>323</option>
+    </select>
+    <select id="floor">
+      <option>الطابق</option>
+      <option>الأرضي</option>
+      <option>الأول</option>
+    </select>
+    <select id="type">
+      <option>نوع المكتب</option>
+      <option>أكاديمي</option>
+      <option>إداري</option>
+    </select>
+  </div>
+
+  <div class="grid" id="officeGrid"></div>
+
+  <div class="legend">
+    <p>
+      <span class="available" style="background:#4CAF50"></span> متاح
+      <span class="partial" style="background:#FF9800"></span> متاح جزئياً
+      <span class="reserved" style="background:#f44336"></span> محجوز بالكامل
+      <span class="maintenance" style="background:#FFEB3B; border:1px solid #ccc"></span> تحت الصيانة
+    </p>
+  </div>
+
+  <div class="details" id="details">
+    <strong>تفاصيل المكتب</strong>
+    <p>اختر مكتبًا لعرض التفاصيل.</p>
+  </div>
+
+  <script>
+    async function loadOffices() {
+      const response = await fetch('offices_data.json');
+      const data = await response.json();
+      const grid = document.getElementById('officeGrid');
+      grid.innerHTML = '';
+
+      data.forEach(office => {
+        const div = document.createElement('div');
+        div.className = `office ${office.status}`;
+        div.textContent = office.officeId;
+        div.onclick = () => showDetails(office);
+        grid.appendChild(div);
+      });
+    }
+
+    function showDetails(office) {
+      const availableSlots = office.capacity - office.occupied;
+      const details = document.getElementById("details");
+      details.innerHTML = `
+        <strong>تفاصيل المكتب</strong>
+        <p><strong>رقم المكتب:</strong> ${office.officeId}</p>
+        <p><strong>الوحدة:</strong> ${office.unit}</p>
+        <p><strong>الدور:</strong> ${office.floor}</p>
+        <p><strong>عدد المحجوز حالياً:</strong> ${office.occupied}</p>
+        <p><strong>المتاح:</strong> ${availableSlots}</p>
+        <button onclick="submitBooking('${office.officeId}')">طلب حجز</button>
+      `;
+    }
+
+    function submitBooking(office) {
+      fetch('https://your-backend-url.com/api/book', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          officeId: office,
+          user: 'اسم المستخدم التجريبي'
+        })
+      })
+      .then(res => res.json())
+      .then(data => {
+        alert('تم إرسال طلب الحجز للإدارة بنجاح.');
+      })
+      .catch(err => {
+        console.error(err);
+        alert('حدث خطأ أثناء إرسال الطلب.');
+      });
+    }
+
+    loadOffices();
+  </script>
+</body>
+</html>

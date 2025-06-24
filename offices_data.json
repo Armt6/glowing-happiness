@@ -1,0 +1,3305 @@
+[
+  {
+    "officeId": "G082",
+    "unit": "وحدة الخبرة الميدانية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G083",
+    "unit": "وحدة الإرشاد النفسي",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G084",
+    "unit": "وحدة الإرشاد الاجتماعي",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G085",
+    "unit": "مساعدة مدير ادارة الخدمات المساندة ",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G086",
+    "unit": "وحدة الموارد البشرية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G088",
+    "unit": "وحدة الشراكات",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G089",
+    "unit": " وحدة شؤون الاختبارات",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G094",
+    "unit": "وحدة الخبرة الميدانية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G095",
+    "unit": "وحدة التسويق والأعمال المسؤولية الاجتماعية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G096",
+    "unit": "وحدة الأندية الطلابية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 0,
+    "status": "available"
+  },
+  {
+    "officeId": "G098",
+    "unit": "رئيسة وحدة الأندية الطلابية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G099",
+    "unit": "مكتب المتعاونات",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 0,
+    "status": "available"
+  },
+  {
+    "officeId": "G106",
+    "unit": "وحدة أمينات الأقسام العلمية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G107",
+    "unit": "رئيسة وحدة الإرشاد الأكاديمي",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G108-G109",
+    "unit": "وحدة الإرشاد الأكاديمي",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G110",
+    "unit": "وحدة الشؤون الفنية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G111",
+    "unit": "وحدة إعداد الجداول",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G116",
+    "unit": "وحدة الأعذار الطبية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G117",
+    "unit": "وحدة التطوير والجودة",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G120",
+    "unit": "وحدة الجداول والاختبارات التصوير",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G121",
+    "unit": "وحدة أمينات الأقسام العلمية",
+    "floor": "الأول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G059",
+    "unit": "وحدة المتابعة",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F076",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F077",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F078",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F079",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F080",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F081",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F082",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F088",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F089",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F090",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F091",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F092",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F093",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F094",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F095",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F100",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F101",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F102",
+    "unit": "وحدة الحقوق الطلابية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F103",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F104",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F105",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F107",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F108",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F109",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F110",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F111",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F112",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F113",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F114",
+    "unit": "قسم التأمين وإدارة المخاطر",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F115",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F116",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F117",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F118",
+    "unit": "قسم المالية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F128",
+    "unit": "وحدة المصادر والمرافق والتجهيزات التعليمية",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "F133",
+    "unit": "مراسل مكتبي",
+    "floor": "الثاني",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S090",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S091",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S092",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S093",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S094",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S095",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S096",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S099",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S100",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S101",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S102",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S103",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S104",
+    "unit": "قسم الإقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S105",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S106",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S110",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S111",
+    "unit": "قسم الاقتصاد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S112",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S113",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S114",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S115",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S116",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S118",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S119",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S120",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S121",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S122",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S123",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S124",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S125",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S126",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S127",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S128",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S129",
+    "unit": "قسم المحاسبة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T089",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T090",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T091",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T092",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T093",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T094",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T095",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T096",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T101",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T102",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T103",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T104",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T105",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T106",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T107",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T108",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T113",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T114",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T115",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T116",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T117",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T118",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T119",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T121",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T122",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T123",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T124",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T125",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T126",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T127",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T128",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T129",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T130",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T131",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "T132",
+    "unit": "قسم الإدارة",
+    "floor": "الرابع",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S078",
+    "unit": "وكيلة كلية اللغة العربية لشؤون الطالبات ",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "S083",
+    "unit": "السكرتارية الاتصالات الادارية",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S085",
+    "unit": "المتابعة التعليمية ",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S050",
+    "unit": "سكرتارية قسم النحو والصرف وفقه اللغة",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S051",
+    "unit": "سكرتارية قسم االأدب والبلاغة والنقد",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S056",
+    "unit": "شؤون الأعضاء ",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S057",
+    "unit": "الشؤون الفنية ",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "S150",
+    "unit": "شؤون الاختبارات",
+    "floor": "الثالث",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G003",
+    "unit": "شؤون الاختبارات ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G034",
+    "unit": "اشراف القسم (1)",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G027",
+    "unit": "اشراف القسم (2)",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G029",
+    "unit": "وحدة الإحصاء والتقارير ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G030",
+    "unit": "وحدة شؤون الطالبات والحقوق الطلابية ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G033",
+    "unit": "الإشراف الاجتماعي ولجنة الاعذار الطبية ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G006",
+    "unit": "شؤون الموظفات ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G011",
+    "unit": "مساعده مدير الخدمات المساندة ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G039",
+    "unit": "منسقة الجداول التشغيلية والقاعات ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G043",
+    "unit": "وحدة الارشاد الأكاديمي",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "G042",
+    "unit": "ممثلة الارشاد الأكاديمي",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G032",
+    "unit": "ممثلة الارشاد الأكاديمي ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G007",
+    "unit": "المعادلات ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G012",
+    "unit": "سكرتارية الدراسات العليا ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G015",
+    "unit": "منسقة الدراسات العليا",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G031",
+    "unit": "وحدة المسؤولية المجتمعية ",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "G028",
+    "unit": "وحدة النشاط الطلابي",
+    "floor": "الاول",
+    "building": "322",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF014",
+    "unit": "وكيلة قسم التربية الخاصة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF02A",
+    "unit": "سكرتارية قسم التربية الخاصة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF002",
+    "unit": "شؤون الاختبارات",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF015",
+    "unit": "عضوات هيئة تدريس",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF004A",
+    "unit": "عضوات هيئة تدريس",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "Gf005",
+    "unit": "عضوات هيئة تدريس",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF004",
+    "unit": "عضوات هيئة تدريس",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF012",
+    "unit": "رئيس قسم الطفولة المبكرة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF011",
+    "unit": "سكرتارية الطفولة المبكرة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF010",
+    "unit": "أعضاء هيئة تدريس الطفولة المبكرة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF008",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF010",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF009",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF006",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF005",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF004",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF003",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF002",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF022",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF021",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF020",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF019",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF018",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF017",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF016",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF012",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF007",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF011",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF013",
+    "unit": "أعضاء هيئة تدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF136",
+    "unit": "اشراف قسم المناهج وطرق التدريس والإدارة التربوية مسائي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF135",
+    "unit": "شؤون الموظفات الفترة المسائية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF127",
+    "unit": "اشراف قسم التربية الخاصة مسائي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF063",
+    "unit": "وكيلة كلية التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF065",
+    "unit": "قاعة اجتماعات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 0,
+    "status": "available"
+  },
+  {
+    "officeId": "SF059",
+    "unit": "سكرتارية كلية التربية / وحدة الاتصالات الإدارية بالكلية ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF055",
+    "unit": "شؤون الاختبارات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF050",
+    "unit": "وحدة التسويق",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF051",
+    "unit": "التخطيط الاستراتيجي",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF052",
+    "unit": "وحدة الاشاد النفسي والاجتماعي",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF067",
+    "unit": "وحدة الاعلام",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF068",
+    "unit": "وحدة المصادر والمرافق والتجهيزات التعليمية-وحدة البحوث والابتكار",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF069",
+    "unit": "أمينة مجلس الكلية - وحدة الخريجين",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF070",
+    "unit": "التربية العملية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF085",
+    "unit": "مساعد مدير الشؤون الفنية /  وحدة التطوير والتدريب        ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF084",
+    "unit": "الدعم الفني والشؤون الفنية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF083",
+    "unit": "شؤون الموظفات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF002",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF003",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF004",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF005",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF006",
+    "unit": "شؤون الدراسات العليا لأصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF007",
+    "unit": "سكرتارية أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF008",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF012",
+    "unit": "منسقة قسم أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF013",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF014",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF015",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF016",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF017",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF018",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF019",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF020",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF021",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF022",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF023",
+    "unit": "أعضاء هيئة تدريس أصول التربية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF012",
+    "unit": "وكيلة قسم الإدارة التربوية",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF013",
+    "unit": "سكرتيرة الإدارة التربوية و شؤون الأعضاء",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF014",
+    "unit": "مكتب شؤون الطالبات",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF008",
+    "unit": "مكتب الجودة",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF007",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF006",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF005",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF004",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF003",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF002",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF015",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF023",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF022",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF021",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF020",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF019",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF018",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF017",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF016",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF071",
+    "unit": "رئيس قسم المناهج و طرق التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF070",
+    "unit": "منسقة  قسم المناهج وطرق التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF069",
+    "unit": "سكرتارية المناهج و طرق التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF068",
+    "unit": "الاتصالات الإدارية",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF067",
+    "unit": "الدراسات العليا",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF077",
+    "unit": "وكيلة الكلية ",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF076",
+    "unit": "مساعدة الوكيلة ",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF075",
+    "unit": "السكرتارية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF087",
+    "unit": "وحدة الدراسات العليا",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF089",
+    "unit": "وحدة شؤون الموظفات",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF079",
+    "unit": "وحدة شؤون الأعضاء",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF071A",
+    "unit": "مصادر",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF080",
+    "unit": "وحدة الجداول",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF088",
+    "unit": "وحدة الإرشاد الأكاديمي",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF086",
+    "unit": "وحدة التصوير",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF090",
+    "unit": "وحدة حقوق الطالبات",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF069",
+    "unit": "الأعذار الاجتماعية والطبية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF070",
+    "unit": "وحدة العمل التطوعي",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF060",
+    "unit": "وحدة الشؤون الفنية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF133",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF145",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF088",
+    "unit": "الأستاذات الزائرات",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF089",
+    "unit": "وحدة إشراف قسم الصحافة",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF090",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF091",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF092",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF093",
+    "unit": "وحدة شؤون الاختبارات قسم الإذاعة",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF094",
+    "unit": "وحدة إشراف قسم الإذاعة",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF095",
+    "unit": "مصادر",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF076",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF077",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF078",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF079",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF080",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF081",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF082",
+    "unit": "أعضاء هيئة التدريس",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF083",
+    "unit": "وحدة شؤون الاختبارات قسم الصحافة",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF148",
+    "unit": "الشؤون الفنية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF091",
+    "unit": "وحدة المعادلات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF092",
+    "unit": "وحدة شؤون اختبارات قسم العلاقات العامة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF093",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF094",
+    "unit": " عضو هيئة التدريس  ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF095",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF096",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF097",
+    "unit": "سكرتارية قسم العلاقات العامة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF098",
+    "unit": "المعيدات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF103",
+    "unit": "الأستاذات المتعاونات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF104",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF105",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF106",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF107",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF107",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF108",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF109",
+    "unit": "وحدة إشراف قسم العلاقات العامة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF110",
+    "unit": "وحدة شؤون اختبارات قسم الإعلان والاتصال",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF109",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF108",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF107",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF106",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF105",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF104",
+    "unit": "عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF103",
+    "unit": "وحدة إشراف قسم الإعلان والاتصال",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF098",
+    "unit": "رئيسة قسم الجرافيكس والوسائط المتعددة",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF097",
+    "unit": "سكرتارية قسم الجرافيكس ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF096",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF095",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF094",
+    "unit": "وحدة شؤون اختبارات قسم الجرافيكس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF093",
+    "unit": "عضو هيئة التدريس ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF092",
+    "unit": "عضو هيئة التدريس  ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "TF091",
+    "unit": "مستودع ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF098",
+    "unit": "وحدة الشؤون المالية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF102A",
+    "unit": "وحدة الخمات التدريبة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF102A",
+    "unit": "وحدة الخدمات الإدارية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF107A",
+    "unit": "وحدة الخمات التدريبة",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF107",
+    "unit": "وحدة التقنية والدعم الفني",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF110",
+    "unit": "وحدة القبول والتسجيل",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF109A",
+    "unit": "وحدة القبول والتسجيل",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF118",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF117",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF116",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF15",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF107",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF106",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF105",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF104",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF102",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF099",
+    "unit": "وحدة الشؤون التعليمية",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF113",
+    "unit": "وحدة الأرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF108",
+    "unit": "وحدة الأرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF103",
+    "unit": "وحدة الأرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF101",
+    "unit": "وحدة الأرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "FF100",
+    "unit": "وحدة الأرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF115",
+    "unit": "مديرة وحدة الشؤون التعليمية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF117",
+    "unit": "وحدة البرامج الأكادمية",
+    "floor": " الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF119",
+    "unit": "وحدة الاتصالات الإدارية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF120",
+    "unit": "وحدة التقارير",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF123",
+    "unit": "وحدة الجودة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF125",
+    "unit": "وحدة الشركات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF126",
+    "unit": "وحدة الشؤون التعليمية (متابعة)",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF128",
+    "unit": "وحدة خدمات المستفيدين -العلاقات العامة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF129",
+    "unit": "وحدة الخدمات الإدارية(شؤون الأعضاء وهيئة التدريس)",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF063",
+    "unit": "مكتب نائب الرئيس التنفيذي للشؤون الأكادمية",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF079",
+    "unit": "مكتب نائب الرئيس التنفيذي للشؤون الأكادمية(مديرة المكتب)",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "SF078",
+    "unit": "مكتب نائب الرئيس التنفيذي للشؤون الأكادمية(سكرتاريا)",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 1,
+    "status": "partial"
+  },
+  {
+    "officeId": "GF125",
+    "unit": "مكتب معلم-رئيس وحدة المتطلبات الأكاديمية",
+    "floor": "الأول",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "FF109",
+    "unit": "مكتب معلم",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "FF114",
+    "unit": "مكتب معلم-رئيس وحدة الإرشاد الأكاديمي",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "FF123",
+    "unit": "مكتب معلم-وحدة التخطيط والجودة",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "FF112",
+    "unit": "مكتب معلم-التدريب الميداني",
+    "floor": "الثاني",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF116",
+    "unit": "مكتب معلم-مشرفة دبلوم الشبكات",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF118",
+    "unit": "مكتب معلم",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF122",
+    "unit": "مكتب معلم-رئيس وحدة الجودة",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF127",
+    "unit": "مكتب معلم",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF130",
+    "unit": "مكتب معلم",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "SF131",
+    "unit": "مكتب معلم",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "FS133",
+    "unit": "مكتب معلم -جداول",
+    "floor": "الثالث",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF115",
+    "unit": "مكتب عضو هيئة تدريس -مكتب معلم -مديرة الشركات والتسويق",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF116",
+    "unit": "مكتب معلم",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF117",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF118",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF119",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF121",
+    "unit": "مكتب عضو هيئة التدريس-مشرفة دبلوم إدارة الأعمال",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF123",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF124",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF125",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF126",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF127",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF128",
+    "unit": "مكتب عضو هيئة التدريس",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF130",
+    "unit": "مكتب معلم",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF131",
+    "unit": "مكتب معلم - وحدو اللغة الالنجليزية",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF132",
+    "unit": "مكتب عضو هيئة تدريس  ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  },
+  {
+    "officeId": "TF133",
+    "unit": "مكتب عضو هيئة تدريس  ",
+    "floor": "الرابع",
+    "building": "325",
+    "capacity": 2,
+    "occupied": 2,
+    "status": "reserved"
+  }
+]
